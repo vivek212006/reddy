@@ -1,5 +1,5 @@
 amity university
 btech
-aiml
+ailm
 now testing code in test1
-eee
+ece
